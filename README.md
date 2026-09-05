@@ -12,12 +12,19 @@ A hands-on learning environment for exploring Active Directory concepts, user ma
 - Sample configurations
 - Best practices and examples
 
-## Prerequisites
-- Virtualization platform (Hyper-V, VMware, VirtualBox, etc.)
-- Windows Server installation media
-- Sufficient system resources (RAM, storage, CPU)
-- Basic networking knowledge
+## Environment Specifications
 
+This lab was built and tested on a localized host machine utilizing isolated virtual networking to simulate an enterprise domain.
+
+**Hardware (Host):**
+* **Memory & Storage:** 32 GB RAM and 1 TB SSD (Providing high I/O for rapid VM provisioning and snapshotting)
+* **GPU:** NVIDIA GeForce RTX 5060
+
+**Software & Virtualization:**
+* **Hypervisor:** VMware Workstation Pro 
+  * *Note: Deployed using Linked Clones and a custom VMnet2 Host-Only isolated network to prevent DHCP conflicts.*
+* **Domain Controller OS:** Windows Server 2022 Standard (Desktop Experience)
+* **Client OS:** Windows 10/11 Enterprise Evaluation
 ## Getting Started
 1. Review the documentation in the repository
 2. Follow the setup guides
