@@ -123,6 +123,7 @@ We installed the necessary tools, now we have to create our own domain
 - Click `Tools` -> **Active Directory Users and Computers**
 - Select `bek.local` -> `computers`
 
-![Uploading изображение.png…]()
+<img width="1661" height="945" alt="изображение" src="https://github.com/user-attachments/assets/1628c189-f4f6-4320-a76d-18658e8e3817" />
+
 
  And there is Alice's account here
