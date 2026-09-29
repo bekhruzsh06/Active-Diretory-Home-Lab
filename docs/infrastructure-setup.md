@@ -127,3 +127,42 @@ We installed the necessary tools, now we have to create our own domain
 
 
  And there is Alice's account here
+
+### **4. Configuring AD account**
+
+Firstly, the best practice is to put Alice's account into Organizational Unit (OU) to clearly apply Group Policies to her later
+
+**Organizational Unit (OU)** - A container, that stores users, computers and groups 
+
+#### **4.1 Creating OU and setting a password**
+
+- Open **Server Manager** -> **Tools** -> **Active Directory Users and Computers (ADUC)**.
+
+- Right-click your domain `bek.local` in the left pane -> **New** -> **Organizational Unit**. Name it (`IT Department`) and click **OK**.
+
+<img width="957" height="653" alt="изображение" src="https://github.com/user-attachments/assets/643af9bb-83b4-4903-9d8b-66d9382f6648" />
+
+<img width="962" height="680" alt="изображение" src="https://github.com/user-attachments/assets/fbfd35c9-383b-4642-88c2-6c906945d6a1" />
+
+<img width="953" height="660" alt="изображение" src="https://github.com/user-attachments/assets/4af30574-8f00-4e9b-8b87-3be7c418ec45" />
+
+#### **4.2 Moving Existing User to OU**
+
+##### **1. Locate The Existing Account:** Find Alice in her current location
+
+1. Open **Server Manager** -> **Tools** -> **Active Directory Users and Computers**.
+    
+2. In the left pane, expand your `bek.local` domain and click on the **Users** folder (this is the default container where accounts are placed if an OU is not specified).
+    
+
+- **How to verify:** You should see "Alice" listed in the right-hand pane alongside default accounts like Administrator and Guest.
+    
+##### **2. Move the Account:** Organize the account into your custom OU.
+
+1. Right-click on Alice's name and select **Move...**.
+    
+2. A small directory tree window will appear. Expand `bek.local`, click on your `LabUsers` OU so it is highlighted, and click **OK**.
+
+- _(Efficiency trick: You can also just click and drag Alice's account from the right pane directly onto the `LabUsers` folder in the left pane)._
+    
+- **How to verify:** Click on the `LabUsers` OU in the left pane. Alice's account will now populate in the right pane, confirming the move was successful.
