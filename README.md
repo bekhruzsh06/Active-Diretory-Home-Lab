@@ -7,10 +7,10 @@ This repository contains documentation, scripts, and resources for setting up an
 A hands-on learning environment for exploring Active Directory concepts, user management, group policies, and domain administration in a safe, isolated setting.
 
 ## Contents
-- Documentation and guides
-- Configuration scripts
-- Sample configurations
-- Best practices and examples
+- [Infrastructure Set Up](docs/infrastructure-setup)
+- [GPO Configuration](docs/gpo-configurations/)
+- Troubleshooting
+- Bulk User Creation
 
 ## Environment Specifications
 
