@@ -51,4 +51,4 @@ This project is open source and available under the MIT License.
 For questions or issues, please open a GitHub issue in this repository.
 
 ---
-*Last updated: September 5, 2026*
+*Last updated: October 8th, 2026*
