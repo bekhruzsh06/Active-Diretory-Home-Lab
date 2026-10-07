@@ -10,7 +10,7 @@ A hands-on learning environment for exploring Active Directory concepts, user ma
 - [Infrastructure Set Up](docs/infrastructure-setup)
 - [GPO Configuration](docs/gpo-configurations/)
 - [Troubleshooting](docs/troubleshooting)
-- Bulk User Creation
+- [Bulk User Creation](docs/bulk-user-creation)
 
 ## Environment Specifications
 
