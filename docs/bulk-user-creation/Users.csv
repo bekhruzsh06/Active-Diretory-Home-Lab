@@ -1,0 +1,121 @@
+FirstName,LastName,Username,Department,OUPath,DoesNotRequirePreAuth,Password
+Ivan,Ivanov,iivanov,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Moscow!8921
+Elena,Smirnova,esmirnova,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",True,iloveyou
+Timur,Abdullaev,tabdullaev,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Tashkent@202
+Malika,Karimova,mkarimova,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Uzbek#991
+Wei,Chen,wchen,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Beijing$102
+Jing,Wang,jwang,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,China%554
+James,Smith,jsmith,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,London^773
+Olivia,Brown,obrown,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",True,123456
+Luca,Rossi,lrossi,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Rome&882
+Emma,Muller,emuller,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Berlin*334
+Mikhail,Popov,mpopov,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Russia!112
+Anna,Sokolova,asokolova,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Cyber@445
+Aziz,Rahimov,arahimov,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",True,password
+Nigina,Umarova,numarova,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Network#667
+Hao,Li,hli,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,System$998
+Yan,Zhang,yzhang,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Admin%223
+William,Jones,wjones,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Server^441
+Ava,Garcia,agarcia,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Cloud&552
+Mateo,Dubois,mdubois,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",True,123456789
+Sofia,Larsen,slarsen,IT,"OU=IT_Users,OU=IT Department,DC=bek,DC=local",False,Data*776
+Dmitry,Volkov,dvolkov,Marketing,"OU=Marketing,DC=bek,DC=local",False,Market!101
+Maria,Morozova,mmorozova,Marketing,"OU=Marketing,DC=bek,DC=local",False,Brand@202
+Jasur,Rustamov,jrustamov,Marketing,"OU=Marketing,DC=bek,DC=local",True,qwerty
+Umida,Turaeva,uturaeva,Marketing,"OU=Marketing,DC=bek,DC=local",False,Sales#303
+Jun,Liu,jliu,Marketing,"OU=Marketing,DC=bek,DC=local",False,Promo$404
+Lei,Yang,lyang,Marketing,"OU=Marketing,DC=bek,DC=local",False,Adver%505
+John,Miller,jmiller,Marketing,"OU=Marketing,DC=bek,DC=local",False,Media^606
+Isabella,Davis,idavis,Marketing,"OU=Marketing,DC=bek,DC=local",False,Social&707
+Hugo,García,hgarcia,Marketing,"OU=Marketing,DC=bek,DC=local",True,12345
+Julia,Silva,jsilva,Marketing,"OU=Marketing,DC=bek,DC=local",False,Global*808
+Sergei,Novikov,snovikov,Marketing,"OU=Marketing,DC=bek,DC=local",False,Target!909
+Olga,Lebedeva,olebedeva,Marketing,"OU=Marketing,DC=bek,DC=local",False,Reach@111
+Rustam,Aliev,raliev,Marketing,"OU=Marketing,DC=bek,DC=local",False,Vision#222
+Dilnoza,Saidova,dsaidova,Marketing,"OU=Marketing,DC=bek,DC=local",False,Event$333
+Xin,Huang,xhuang,Marketing,"OU=Marketing,DC=bek,DC=local",True,111111
+Jie,Wu,jwu,Marketing,"OU=Marketing,DC=bek,DC=local",False,Design%444
+Robert,Wilson,rwilson,Marketing,"OU=Marketing,DC=bek,DC=local",False,Creative^555
+Mia,Moore,mmoore,Marketing,"OU=Marketing,DC=bek,DC=local",False,Content&666
+Leon,Wagner,lwagner,Marketing,"OU=Marketing,DC=bek,DC=local",False,Digital*777
+Marie,Roux,mroux,Marketing,"OU=Marketing,DC=bek,DC=local",True,princess
+Alexey,Kozlov,akozlov,HR,"OU=HR,DC=bek,DC=local",False,People!123
+Natalia,Orlova,norlova,HR,"OU=HR,DC=bek,DC=local",False,Hire@456
+Dilshod,Yusupov,dyusupov,HR,"OU=HR,DC=bek,DC=local",False,Talent#789
+Shahnoza,Sharipova,ssharipova,HR,"OU=HR,DC=bek,DC=local",False,Staff$012
+Peng,Zhao,pzhao,HR,"OU=HR,DC=bek,DC=local",True,1234567
+Min,Zhou,mzhou,HR,"OU=HR,DC=bek,DC=local",False,Culture%345
+Michael,Taylor,mtaylor,HR,"OU=HR,DC=bek,DC=local",False,Team^678
+Charlotte,Anderson,canderson,HR,"OU=HR,DC=bek,DC=local",False,Benefit&901
+Gabriel,Romero,gromero,HR,"OU=HR,DC=bek,DC=local",False,Payroll*234
+Camille,Leroy,cleroy,HR,"OU=HR,DC=bek,DC=local",True,dragon
+Andrey,Makarov,amakarov,HR,"OU=HR,DC=bek,DC=local",False,Policy!567
+Ekaterina,Ilyina,eilyina,HR,"OU=HR,DC=bek,DC=local",False,Train@890
+Sardor,Nazarov,snazarov,HR,"OU=HR,DC=bek,DC=local",False,Recruit#112
+Zarina,Jalilova,zjalilova,HR,"OU=HR,DC=bek,DC=local",False,Onboard$334
+Jian,Sun,jsun,HR,"OU=HR,DC=bek,DC=local",True,123123
+Hong,Ma,hma,HR,"OU=HR,DC=bek,DC=local",False,Retain%556
+David,Thomas,dthomas,HR,"OU=HR,DC=bek,DC=local",False,Manage^778
+Amelia,Jackson,ajackson,HR,"OU=HR,DC=bek,DC=local",False,Lead&990
+Lucas,Hoffmann,lhoffmann,HR,"OU=HR,DC=bek,DC=local",False,Guide*123
+Lea,Becker,lbecker,HR,"OU=HR,DC=bek,DC=local",True,baseball
+Nikolai,Stepanov,nstepanov,Finance,"OU=Finance,DC=bek,DC=local",False,Money!999
+Tatiana,Pavlova,tpavlova,Finance,"OU=Finance,DC=bek,DC=local",False,Cash@888
+Otabek,Qodirov,oqodirov,Finance,"OU=Finance,DC=bek,DC=local",True,monkey
+Feruza,Asadova,fasadova,Finance,"OU=Finance,DC=bek,DC=local",False,Audit#777
+Bo,Zhu,bzhu,Finance,"OU=Finance,DC=bek,DC=local",False,Tax$666
+Ying,Hu,yhu,Finance,"OU=Finance,DC=bek,DC=local",False,Ledger%555
+Richard,White,rwhite,Finance,"OU=Finance,DC=bek,DC=local",False,Budget^444
+Harper,Harris,hharris,Finance,"OU=Finance,DC=bek,DC=local",False,Asset&333
+Louis,Moreau,lmoreau,Finance,"OU=Finance,DC=bek,DC=local",True,letmein
+Chloe,Gallo,cgallo,Finance,"OU=Finance,DC=bek,DC=local",False,Equity*222
+Pavel,Nikolaev,pnikolaev,Finance,"OU=Finance,DC=bek,DC=local",False,Profit!111
+Svetlana,Egorova,segorova,Finance,"OU=Finance,DC=bek,DC=local",False,Margin@000
+Bobur,Mahmudov,bmahmudov,Finance,"OU=Finance,DC=bek,DC=local",False,Cost#121
+Lola,Tohirova,ltohirova,Finance,"OU=Finance,DC=bek,DC=local",False,Fund$232
+Qiang,Guo,qguo,Finance,"OU=Finance,DC=bek,DC=local",True,shadow
+Na,Lin,nlin,Finance,"OU=Finance,DC=bek,DC=local",False,Wealth%343
+Joseph,Martin,jmartin,Finance,"OU=Finance,DC=bek,DC=local",False,Bank^454
+Evelyn,Thompson,ethompson,Finance,"OU=Finance,DC=bek,DC=local",False,Yield&565
+Arthur,Schulz,aschulz,Finance,"OU=Finance,DC=bek,DC=local",False,Stock*676
+Juliette,Blanc,jblanc,Finance,"OU=Finance,DC=bek,DC=local",True,superman
+Igor,Vasiliev,ivasiliev,Sales,"OU=Sales,DC=bek,DC=local",False,Deal!787
+Anastasia,Zaytseva,azaytseva,Sales,"OU=Sales,DC=bek,DC=local",False,Sell@898
+Farhod,Hasanov,fhasanov,Sales,"OU=Sales,DC=bek,DC=local",False,Quota#909
+Guli,Norova,gnorova,Sales,"OU=Sales,DC=bek,DC=local",True,12345678
+Dong,He,dhe,Sales,"OU=Sales,DC=bek,DC=local",False,Buyer$010
+Mei,Gao,mgao,Sales,"OU=Sales,DC=bek,DC=local",False,Client%121
+Thomas,Wood,twood,Sales,"OU=Sales,DC=bek,DC=local",False,Pitch^232
+Abigail,Lewis,alewis,Sales,"OU=Sales,DC=bek,DC=local",False,Close&343
+Paul,Meyer,pmeyer,Sales,"OU=Sales,DC=bek,DC=local",True,qweasdzxc
+Elena,Costa,ecosta,Sales,"OU=Sales,DC=bek,DC=local",False,Lead*454
+Oleg,Fedorov,ofedorov,Sales,"OU=Sales,DC=bek,DC=local",False,Retail!565
+Viktoria,Borisova,vborisova,Sales,"OU=Sales,DC=bek,DC=local",False,Store@676
+Sanjar,Ergashev,sergashev,Sales,"OU=Sales,DC=bek,DC=local",True,batman
+Sevara,Raimova,sraimova,Sales,"OU=Sales,DC=bek,DC=local",False,Trade#787
+Bin,Liang,bliang,Sales,"OU=Sales,DC=bek,DC=local",False,Value$898
+Lan,Tang,ltang,Sales,"OU=Sales,DC=bek,DC=local",False,Price%909
+Charles,Robinson,crobinson,Sales,"OU=Sales,DC=bek,DC=local",False,Goods^010
+Emily,Clark,eclark,Sales,"OU=Sales,DC=bek,DC=local",True,iloveyou1
+Victor,Fontaine,vfontaine,Sales,"OU=Sales,DC=bek,DC=local",False,Metric&121
+Lucia,Gómez,lgomez,Sales,"OU=Sales,DC=bek,DC=local",False,Growth*232
+Maxim,Volkov,mvolkov2,Engineering,"OU=Engineering,DC=bek,DC=local",False,Build!343
+Daria,Makarova,dmakarova,Engineering,"OU=Engineering,DC=bek,DC=local",True,654321
+Ilhom,Safarov,isafarov,Engineering,"OU=Engineering,DC=bek,DC=local",False,Code@454
+Nodira,Ismoilova,nismoilova,Engineering,"OU=Engineering,DC=bek,DC=local",False,Dev#565
+Chao,Zheng,czheng,Engineering,"OU=Engineering,DC=bek,DC=local",False,Test$676
+Ting,Song,tsong,Engineering,"OU=Engineering,DC=bek,DC=local",False,Deploy%787
+Christopher,Walker,cwalker,Engineering,"OU=Engineering,DC=bek,DC=local",True,mustang
+Elizabeth,Hall,ehall,Engineering,"OU=Engineering,DC=bek,DC=local",False,Agile^898
+Felix,Schmidt,fschmidt,Engineering,"OU=Engineering,DC=bek,DC=local",False,Scrum&909
+Alice,Martin,amartin2,Engineering,"OU=Engineering,DC=bek,DC=local",False,Sprint*010
+Vladimir,Kuznetsov,vkuznetsov,Engineering,"OU=Engineering,DC=bek,DC=local",False,Logic!121
+Ksenia,Tarasova,ktarasova,Engineering,"OU=Engineering,DC=bek,DC=local",True,qwertyuiop
+Sherzod,Davlatov,sdavlatov,Engineering,"OU=Engineering,DC=bek,DC=local",False,Patch@232
+Iroda,Hamidova,ihamidova,Engineering,"OU=Engineering,DC=bek,DC=local",False,Fix#343
+Feng,Dong,fdong,Engineering,"OU=Engineering,DC=bek,DC=local",False,Node$454
+Hua,Lu,hlu,Engineering,"OU=Engineering,DC=bek,DC=local",False,Stack%565
+Daniel,Allen,dallen,Engineering,"OU=Engineering,DC=bek,DC=local",True,1234
+Sofia,Young,syoung,Engineering,"OU=Engineering,DC=bek,DC=local",False,Tech^676
+Maxime,Bernard,mbernard,Engineering,"OU=Engineering,DC=bek,DC=local",False,Sys&787
+Clara,Fernández,cfernandez,Engineering,"OU=Engineering,DC=bek,DC=local",False,Arch*898
